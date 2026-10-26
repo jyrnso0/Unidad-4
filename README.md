@@ -34,6 +34,9 @@ Actividad 4/
 ├── .gitignore                # Exclusión de entornos virtuales, cachés y temporales
 ├── README.md                 # Documentación completa del proyecto
 └── README.txt                # Reglas didácticas del paquete de alumno
+├── docs/
+│   ├── evidencias            # Evidencias de la actividad 
+|   ├── reporte.pdf           # Reporte del proyecto 
 ```
 
 ---
